@@ -1,0 +1,2 @@
+Las caputras de devolver y deshechar están mal. Repasar el ejercio para el examen poniendo varias cantidades de un mismo producto,
+que es posible que no haya salido por poner uno solo de cada.
